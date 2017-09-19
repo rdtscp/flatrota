@@ -14,6 +14,9 @@ iOS mobile application to interact with flat-rota-core.
 # POC Release
 Instructions for use:
 
+* Install MongoDB
+* `mongod`
+
 * `git clone https://github.com/acwilson96/flatrota.git`
 * `cd /flatrota`
 * `npm start`
