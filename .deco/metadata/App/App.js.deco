@@ -1,0 +1,85 @@
+{
+	"liveValues": [
+		{
+			"range": {
+				"from": {
+					"line": 49,
+					"ch": 32
+				},
+				"to": {
+					"line": 49,
+					"ch": 31
+				}
+			},
+			"editWith": "dropdown",
+			"dropdownOptions": "AlignItems",
+			"type": "string",
+			"name": "AlignItems",
+			"group": "ACTIVITY INDICATOR IOS"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 50,
+					"ch": 36
+				},
+				"to": {
+					"line": 50,
+					"ch": 40
+				}
+			},
+			"editWith": "dropdown",
+			"dropdownOptions": "JustifyContent",
+			"type": "string",
+			"name": "JustifyContent",
+			"group": "ACTIVITY INDICATOR IOS"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 52,
+					"ch": 29
+				},
+				"to": {
+					"line": 52,
+					"ch": 33
+				}
+			},
+			"type": "boolean",
+			"name": "Animating",
+			"group": "ACTIVITY INDICATOR IOS"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 53,
+					"ch": 24
+				},
+				"to": {
+					"line": 53,
+					"ch": 31
+				}
+			},
+			"editWith": "inputField",
+			"type": "string",
+			"name": "Size",
+			"group": "ACTIVITY INDICATOR IOS"
+		},
+		{
+			"range": {
+				"from": {
+					"line": 54,
+					"ch": 25
+				},
+				"to": {
+					"line": 54,
+					"ch": 26
+				}
+			},
+			"editWith": "colorPicker",
+			"type": "string",
+			"name": "Color",
+			"group": "ACTIVITY INDICATOR IOS"
+		}
+	]
+}
