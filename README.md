@@ -12,7 +12,8 @@ iOS mobile application to interact with flat-rota-core.
 
 
 # POC Release
-__Requires macOS Sierra__
+_Requires macOS Sierra and Xcode_
+
 Instructions for use:
 
 * Install MongoDB
