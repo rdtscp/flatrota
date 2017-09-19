@@ -9,3 +9,11 @@ Core API that manages who's turn it is to buy a specific item.
 # flatrota_mobile
 [flatrota_mobile](https://github.com/acwilson96/flatrota_mobile)
 iOS mobile application to interact with flat-rota-core.
+
+
+# POC Release
+Instructions for use:
+
+* `git clone https://github.com/acwilson96/flatrota.git`
+* `cd /flatrota`
+* `npm start`
