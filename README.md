@@ -12,7 +12,7 @@ iOS mobile application to interact with flat-rota-core.
 
 
 # POC Release
-_Requires macOS Sierra and Xcode_
+* _Requires macOS Sierra and Xcode_
 
 Instructions for use:
 
