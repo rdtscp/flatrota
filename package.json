@@ -4,7 +4,7 @@
   "private": false,
   "scripts": {
     "prestart": "npm i",
-    "start": "react-native run-ios | mongod",
+    "start": "react-native run-ios",
     "poststart": "node server"
   },
   "repository": {
