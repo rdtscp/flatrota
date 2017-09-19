@@ -1,0 +1,3 @@
+rootProject.name = 'flatrota_mobile'
+
+include ':app'
