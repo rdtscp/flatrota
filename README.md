@@ -16,7 +16,7 @@ Instructions for use:
 
 * Install MongoDB
 * `mongod`
-
+* New terminal:
 * `git clone https://github.com/acwilson96/flatrota.git`
 * `cd /flatrota`
 * `npm start`
