@@ -4,7 +4,7 @@ A small React-Native application that will connect to an ExpressJS backend for m
 
 # flat-rota-core
 [flat-rota-core](https://github.com/acwilson96/flat-rota-core)
-Core API that manages who's turn it is to buy a specific item.
+Core API that manages who's turn it is to buy a specific item. (Details the Rota's Queue structure.)
 
 # flatrota_mobile
 [flatrota_mobile](https://github.com/acwilson96/flatrota_mobile)
