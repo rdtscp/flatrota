@@ -5,7 +5,9 @@
   "scripts": {
     "prestart": "npm i",
     "start": "react-native run-ios",
-    "poststart": "node server"
+    "poststart": "node server",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -23,7 +25,8 @@
     "body-parser": "^1.18.0",
     "express": "^4.15.4",
     "mongoose": "^4.11.11",
-    "socket.io": "^2.0.3"
+    "socket.io": "^2.0.3",
+    "snyk": "^1.88.0"
   },
   "license": "MIT",
   "devDependencies": {
@@ -34,5 +37,6 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "snyk": true
 }
