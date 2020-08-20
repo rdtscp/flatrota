@@ -18,7 +18,7 @@
     "react-native-navbar": "^2.0.1",
     "react-native-push-notification": "^3.0.1",
     "socket.io-client": "^2.0.3",
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "bluebird": "^3.5.0",
     "body-parser": "^1.18.0",
     "express": "^4.15.4",
